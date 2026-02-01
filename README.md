@@ -42,6 +42,16 @@ The project was built to answer key business questions and measure performance e
 2. Open the `.pbix` Power BI file in **Power BI Desktop**.
 3. Explore the interactive visuals and filters to analyze sales and profit.
 
+## Dashboards
+
+An interactive Power BI project analyzing sales, profit, and detailed transaction data to support business decision-making and performance monitoring.
+
+![Sales Dashboard](wwi_dashboards/sales_dashboard1.png)
+![Profit Dashboard](wwi_dashboards/Profit_dashboard2.png)
+![Details Dashboard](wwi_dashboards/Details_dashboard3.png)
+
+
+
 ## License
 This project is for educational purposes. Feel free to use and modify it for learning and analysis.
 

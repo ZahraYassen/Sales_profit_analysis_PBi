@@ -50,7 +50,7 @@ An interactive Power BI project analyzing sales, profit, and detailed transactio
 
 ![Profit Dashboard](wwi_dashboards/profit_dashboard2.png)
 
-![Details Dashboard](wwi_dashboards/sales_dashboard1.png)
+![Details Dashboard](wwi_dashboards/details_dashboard3.png)
 
 
 

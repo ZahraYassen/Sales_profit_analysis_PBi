@@ -47,8 +47,8 @@ The project was built to answer key business questions and measure performance e
 An interactive Power BI project analyzing sales, profit, and detailed transaction data to support business decision-making and performance monitoring.
 
 ![Sales Dashboard](wwi_dashboards/sales_dashboard1.png)
-![Profit Dashboard](wwi_dashboards/Profit_dashboard2.png)
-![Details Dashboard](wwi_dashboards/Details_dashboard3.png)
+![Profit Dashboard](wwi_dashboards/profit_dashboard2.png)
+![Details Dashboard](wwi_dashboards/sales_dashboard1.png)
 
 
 
